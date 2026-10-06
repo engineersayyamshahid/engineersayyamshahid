@@ -1,25 +1,281 @@
-# 💫 About Me:
-🔭 I’m currently working on AI-powered SaaS, AI Agents, and Full-Stack web applications<br><br>👯 I’m looking to collaborate on AI/ML, GenAI, Agentic AI, SaaS, and Full-Stack projects<br><br>🤝 I’m looking for help with advanced AI Agents, LLM applications, RAG, and scalable AI systems<br><br>🌱 I’m currently learning Generative AI, Agentic AI, LLMs, RAG, AI Automation, and Data Science<br><br>💬 Ask me about React, Next.js, MERN Stack, Python, AI/ML, GenAI, RAG, AI Agents, and Full-Stack Development<br><br>⚡ Fun fact: I’m a Full Stack Developer who is transitioning into building production-ready AI products and SaaS
+# 👋 Hi, I'm Sayyam Shahid
 
+### 🚀 Full Stack AI Engineer | AI Agents | GenAI | SaaS | MERN
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sayyam Shahid ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/why_sayyam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sayyam Shahid ) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Engineer Sayyam Shahid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:engineersayyamshahid@gmail.com) 
+I'm a **Full Stack Developer transitioning into Full Stack AI Engineering**, focused on building production-ready **AI applications, intelligent agents, SaaS products, and scalable web systems**.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Engineer Sayyam Shahid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Engineer Sayyam Shahid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Engineer Sayyam Shahid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I enjoy turning ideas into real-world products by combining **modern full-stack development with AI, automation, LLMs, RAG, and agentic systems**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Engineer Sayyam Shahid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+📍 Islamabad, Pakistan  
+💼 Full Stack Developer | AI Engineer  
+🏢 Co-Founder / CEO — **SYFA Digital**  
+📧 engineersayyamshahid@gmail.com
 
 ---
-[![](https://komarev.com/ghpvc/?username=Engineer Sayyam Shahid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sayyamshahid) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sayyamshahid) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/sayyamshahid) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sayyamshahid) 
+## 🧠 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔭 Currently building **AI-powered SaaS, AI Agents, automation systems, and full-stack applications**
+- 🚀 Co-Founder at **SYFA Digital**, a digital solutions and software development agency
+- 🌱 Currently learning **Generative AI, Agentic AI, LLMs, RAG, AI Automation, and Data Science**
+- 🤖 Interested in building **AI Agents, RAG systems, LLM applications, AI SaaS, and intelligent automation**
+- 💻 Strong focus on **React, Next.js, Node.js, MERN Stack, Python, and Full-Stack Development**
+- 🤝 Open to collaborating on **AI/ML, GenAI, Agentic AI, SaaS, automation, and full-stack projects**
+- 💡 My goal is to build **useful AI products that solve real business problems**
+- ⚡ Fun fact: I started as a Full Stack Developer and I'm now combining full-stack engineering with AI to build intelligent products.
+
+---
+
+## 🚀 What I'm Building
+
+```text
+AI Products
+   ├── AI SaaS Applications
+   ├── AI Agents
+   ├── LLM Applications
+   ├── RAG Systems
+   ├── AI Chatbots
+   └── AI Automation
+
+Full-Stack Products
+   ├── Next.js Applications
+   ├── MERN Applications
+   ├── E-Commerce Platforms
+   ├── Business Management Systems
+   └── Custom SaaS Platforms
+```
+
+---
+
+## 🏢 SYFA Digital
+
+### Transforming Ideas into Digital Success.
+
+**SYFA Digital** is a software and digital solutions agency focused on helping businesses, startups, and organizations build modern digital products.
+
+### Services
+
+- 🌐 Full-Stack Web Development
+- ⚛️ React & Next.js Development
+- 🤖 AI Development & Automation
+- 🧠 AI Agents & Chatbots
+- 🔗 LLM & RAG Applications
+- 🛒 E-Commerce Development
+- 🧩 Custom SaaS Applications
+- 🌍 WordPress & Shopify
+- 📈 SEO & Digital Solutions
+- ⚙️ Business Process Automation
+
+🌐 **Website:** https://syfadigital.com/
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🤖 AI / Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Currently focusing on:**
+
+`Generative AI` · `LLMs` · `RAG` · `AI Agents` · `Agentic AI` · `AI Automation` · `Machine Learning` · `Data Science`
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### ☁️ Cloud / DevOps / Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### 🌐 CMS & Other Technologies
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🔥 Featured Projects
+
+### 🎓 Student Analytics & Machine Learning System
+A Python-based analytics system using student performance data to demonstrate statistical analysis, machine learning, prediction, and visualization.
+
+**Tech:** `Python` `Pandas` `NumPy` `Scikit-Learn` `Matplotlib`
+
+### 🏗️ Construction Management System
+A full-stack management platform designed to manage construction-related operations and business workflows.
+
+**Tech:** `MERN` `React` `Node.js` `Express` `MongoDB`
+
+### 🏙️ Smart City Reporting System
+An intelligent reporting system using computer vision to identify and report urban issues.
+
+**Tech:** `YOLOv8` `Python` `OpenCV` `ASP.NET Core` `C#` `SQL Server`
+
+### 🤖 AI Teacher Bot
+An AI-powered educational assistant designed to provide intelligent responses and support learning workflows.
+
+**Focus:** `LLMs` `AI` `Chatbots` `Automation`
+
+### 🛒 E-Commerce Systems
+Modern e-commerce solutions with product management, orders, authentication, payments, and business automation.
+
+**Tech:** `Next.js` `Node.js` `MongoDB` `WooCommerce`
+
+### 🚀 SYFA Digital
+My own digital solutions agency focused on full-stack development, AI automation, SaaS, and business solutions.
+
+**Website:** https://syfadigital.com/
+
+---
+
+## 📚 Currently Learning
+
+```text
+Generative AI
+      ↓
+Large Language Models (LLMs)
+      ↓
+Prompt Engineering
+      ↓
+RAG Systems
+      ↓
+AI Agents
+      ↓
+Agentic AI
+      ↓
+AI Automation
+      ↓
+Production AI Applications
+      ↓
+AI SaaS Products
+```
+
+My long-term goal is to become a **high-level Full Stack AI Engineer** capable of designing, developing, deploying, and scaling complete AI-powered products.
+
+---
+
+## 🎯 2026–2027 Goals
+
+- 🚀 Build production-ready **AI SaaS products**
+- 🤖 Master **AI Agents & Agentic AI**
+- 🧠 Build advanced **LLM + RAG applications**
+- ⚙️ Develop intelligent **AI automation systems**
+- ☁️ Learn scalable AI deployment and cloud architecture
+- 📊 Strengthen **Machine Learning & Data Science**
+- 💼 Work on real-world AI products and startups
+- 🌍 Collaborate with international developers, startups, and businesses
+- 🏗️ Build and grow **SYFA Digital**
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm interested in collaborating on:
+
+- 🤖 AI Agents
+- 🧠 Generative AI
+- 🔗 LLM & RAG Applications
+- ⚙️ AI Automation
+- 🚀 AI SaaS
+- 🌐 Full-Stack Applications
+- 📊 Machine Learning
+- 🏢 Business Automation
+- 💡 Startup & SaaS Ideas
+
+If you're building something interesting, **let's connect and build it together.**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://syfadigital.com/" target="_blank">
+    <img src="https://img.shields.io/badge/SYFA_Digital-081B33?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sayyam-shahid-939bb135a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/why_sayyam/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61551032580912" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:engineersayyamshahid@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🌍 Portfolio
+
+<p align="center">
+  <a href="https://my-portfilo-62022.web.app/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+
+## 💭 Developer Mindset
+
+> **Build. Learn. Automate. Ship. Improve.**
+
+I believe the future belongs to developers who can combine **software engineering + AI + business thinking** to create products that actually solve problems.
+
+---
+
+<p align="center">
+  <b>⚡ Full Stack Developer → Full Stack AI Engineer</b>
+</p>
+
+<p align="center">
+  <i>Building the future with code, AI, and automation.</i>
+</p>
